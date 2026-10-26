@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'ShelfSense · Library intelligence',
+  description: 'Find misplaced library books faster with real-time shelf intelligence for schools.',
   generator: 'v0.app',
   icons: {
     icon: [
